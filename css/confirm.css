@@ -1,0 +1,95 @@
+body{
+margin:0;
+padding:0;
+font-family:Arial,sans-serif;
+background:#F7F7F7;
+}
+#container{
+max-width:1000px;
+margin:0 auto;
+background:#F7F7F7;
+}
+
+#head{
+  background:#68768A;
+  padding:0;
+  margin:0;
+  position:relative;
+  height:px;
+  }#head h1{
+  color:white;
+  margin:0;
+  }#head h2{
+  color:white;
+  margin:0;
+  padding:0;
+  font-family:;
+  }#head img{
+  width:50;
+  }
+  
+ 
+ #confirmer{
+ max-width:600px;
+ margin:0 auto;
+ background:;
+ }#confirmer #head-C{
+ width:250px;
+ }#confirmer #head-C img{
+ width:100px;
+ }#confirmer #head-C h1{
+ font-weight:lighter;
+ }
+ #confirmer #input-cont{
+ max-width: 300px;
+ margin:0 auto;
+ border:1px solid #D0D7DE;
+ background:#F6F8FA;
+ border-radius:5px;
+ }#confirmer #input-cont form{
+ width:100%;
+ max-width: 250px;
+ margin:0 auto;
+ }#confirmer #input-cont form label{
+ color:black;
+ }#confirmer #input-cont form input{
+ margin-bottom:1;
+ margin-top:10;
+ background:#FFFFFF;
+ border:2px solid #0969DA;
+ outline:none;
+ height:30px;
+ border-radius:5px;
+ width:100%;
+ }#confirmer #input-cont form p{
+ text-align:right;
+ padding:1;
+ 
+ margin:5;
+ }#confirmer #input-cont form p a{
+ text-decoration:none;
+ color:#0969DA;
+ text-align:right
+ padding-left:100px;
+ }#confirmer #input-cont form button{
+ width:100%;
+ background:#2DA44E;
+ color:white;
+ border:1px solid #2A9147;
+ height:30px;
+ border-radius:5px;
+ margin-bottom:10px;;
+ }
+ 
+ footer{
+ background:#68768A;
+ padding:10;
+ margin:0;
+ position:relative;
+ height:50px;
+ text-align:center;
+ }footer b{
+ color:white;
+ margin:0;
+ padding:0;
+ }

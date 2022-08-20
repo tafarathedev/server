@@ -1,0 +1,164 @@
+body{
+margin:0;
+padding:0;
+font-family:Arial,sans-serif;
+}
+#container{
+max-width:1000px;
+margin:0 auto;
+background:#F6F8FA;
+}
+
+
+#head{
+  background:#68768A;
+  padding:0;
+  margin:0;
+  position:relative;
+  height:px;
+ }#head h1{
+  color:white;
+  margin:0;
+ }#head h2{
+ color:white;
+ margin:0;
+ padding:0;
+ font-family:;
+ }#head img{
+  width:50;
+ }
+ 
+ 
+ 
+ 
+ #create{
+ border:0px solid #D0D7DE;
+ border-radius:5px;
+ box-shadow:;
+ max-width:600px;
+ margin:0 auto;
+ width:350px;
+ margin-top:10;
+ background:#F6F8FA;
+ }#create #intro{
+ position:relative;
+ display:flex;
+ border:0px solid gray;
+ width:100%;
+ margin:0;
+ }#create #intro p{
+ color:#57606A;
+ margin-left:15px;
+ }#create #intro button{
+ background:#D0D7DE;
+ height:40px;
+ width:40px;
+ border-radius:80%;
+ border:0px;
+ outline:none;
+ margin-top:5;
+ margin-left:5;
+ }#create #intro button svg{
+ font-size:25px;
+ }#create #intro #more{
+ position:absolute;
+ right:0;
+ top:1;
+ background:none;
+ }
+ 
+ 
+ 
+ 
+ #wrape-info{
+ border:1px solid #D8DEE4;
+ max-width:600px;
+ margin:0 auto;
+ width:340px;
+ margin-top:0px;   
+ border-radius:5px;
+ background:white;
+ }#wrape-info #wrape-h{
+ padding:0;
+ margin:10;
+ display:flex;
+ margin-left:10;
+ margin-bottom:0;
+ border:0px solid grey;
+ }#wrape-info #wrape-h button{
+ background:none;
+ border:0px;
+ padding:0;
+ margin:0;
+ }#wrape-info #wrape-h button svg{
+ font-size:30px;
+ margin:0;
+ padding:0;
+ }#wrape-info #wrape-h b{
+ padding-top:6;
+ padding-left:10;
+ margin:0;
+ }#wrape-info p{
+ margin:15px;
+ margin-top:3;
+ max-width:350px;
+ color:#57606A;
+ font-family:Arial,sans-serif;
+ font-size:12px;
+ }#wrape-info button{
+ margin:0;
+ margin-left:15px;
+ margin-bottom:15px;
+ border-radius:5px;
+ background:#2DA44E;
+ color:white;
+ border:1px solid #2C9248;
+ height:35px;
+ outline:none;
+ }#wrape-info a{
+ text-decoration:none;
+ color:#0969DA;
+ }
+ 
+ 
+ 
+ 
+#displayer{
+   border:1px solid #D0D7DE;
+   border-radius:10px;
+   display:flex;
+   box-shadow: 2px 2px 2px grey;
+   max-width:600px;
+   margin:0 auto;
+   width:350px;
+   margin-top:10;
+   background:#FFFFFF;
+  }#displayer #wrape{
+   padding:10;
+   margin:10;
+  }#displayer #wrape b{
+   font-family:;
+  }#displayer #wrape a{
+   font-size:12px;
+   text-decoration:none;
+   color:#0969DA;
+  }#displayer #wrape span{
+  font-size:10px;
+  color:gray;
+  }#displayer #btns{
+   margin-top:5px;
+   border:0px solid black;
+   padding:0px;
+   margin-left:50;
+  }#displayer #btns button{
+   margin-top:5;
+   border-radius:5px;
+   background:#F6F8FA;
+   border:1px solid #D5D8DA;
+   outline:none;
+   width:100%;
+  }
+  
+  
+  
+  
