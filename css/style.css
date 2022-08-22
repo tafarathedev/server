@@ -11,6 +11,8 @@ background:#F6F8FA;
 
 
 #head{
+  width:100%;
+  max-width:1000px;
   background:#68768A;
   padding:0;
   margin:0;
