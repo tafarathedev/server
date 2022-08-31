@@ -161,6 +161,67 @@ background:#F6F8FA;
    width:100%;
   }
   
-  
+
+#about{
+ display:flex;
+ }
+ #about img{
+  width:50px;
+  height:50px;
+  border-radius:55%;
+  margin-right:5;
+  margin-left:10;
+  border:0px solid gray;
+ }
+ 
+ 
+ 
+ 
+#wrape-info form{
+    width:200px;
+   }#wrape-info form #name{
+    background:#f4f4f4;
+    border:0px;
+    border-radius:5px;
+    height:34px;
+    width:100%;
+    outline:none;
+   }#wrape-info form #checks{
+   width:200px;
+   border:0px solid black;
+    text-align:left;
+   }#wrape-info form #checks button{
+    background:none;
+    border:0px;
+    padding:0;
+    margin:1;
+    width:;
+   }#wrape-info form #checks label{
+    padding:0;
+    margin:0;
+    font-family:Courier new,monospace;
+    font-weight:bold;
+    color:black;
+   }#wrape-info form #checks input{
+    margin-top:;
+    margin:0;
+    padding:0;
+   }#wrape-info form #checks button{
+    }
+    
+    
+    
+    footer{
+    background:#68768A;
+    padding:10;
+    margin:0;
+    position:relative;
+    height:50px;
+    text-align:center;
+    }footer b{
+    color:white;
+    margin:0;
+    padding:0;
+    }
   
   
